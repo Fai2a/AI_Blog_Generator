@@ -1,4 +1,4 @@
-'use client';
+// Server Component to support generateMetadata
 
 // Note: In Next.js App Router, 'page.js' for dynamic routes receives 'params'. 
 // However, since we need to use 'use client' for some interactive parts or simply for consistent styling 
